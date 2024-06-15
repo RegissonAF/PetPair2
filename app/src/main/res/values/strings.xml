@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PetPair</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="todo">TODO</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="seus_pets">Seus Pets</string>
+</resources>
