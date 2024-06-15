@@ -7,4 +7,5 @@
     <string name="nome">Nome</string>
     <string name="email">Email</string>
     <string name="seus_pets">Seus Pets</string>
+    <string name="tittle_liked">Liked</string>
 </resources>
