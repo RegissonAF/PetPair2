@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981182984059",
+    "project_id": "petpair-88fbf",
+    "storage_bucket": "petpair-88fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981182984059:android:514e4efb12f353b18597de",
+        "android_client_info": {
+          "package_name": "com.example.petpair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2u2Q-hZITcMtPR9eTWk_NpqkXXjTRCUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

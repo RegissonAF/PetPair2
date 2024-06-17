@@ -4,9 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.dashboard.DashboardFragment">
+    tools:context="ui.dashboard.DashboardFragment"
+    android:id="@+id/dashBoardFragment"
+    >
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/petList"
         android:layout_width="409dp"
         android:layout_height="729dp"
         android:layout_marginStart="1dp"
