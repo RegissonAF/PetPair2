@@ -37,7 +37,6 @@ public class DashboardFragment extends Fragment {
         petList.add(new Pet("Duke", "Cachorro"));
         petList.add(new Pet("Gatuno", "Gato"));
         petList.add(new Pet("Destruidor de Mundos", "Peixe"));
-        // Add more pets as needed
 
         myAdapter = new MyAdapter(getContext(), petList);
         recyclerView.setAdapter(myAdapter);
